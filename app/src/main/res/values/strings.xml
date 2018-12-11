@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NTSMobileTask</string>
+    <string name="title_activity_photos_list">PhotosList</string>
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="item_element_text">This is element #</string>
+    <string name="middle">This is the middle!</string>
+</resources>
